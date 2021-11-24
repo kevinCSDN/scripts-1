@@ -1,3 +1,4 @@
+ql repo https://github.com/smiek2221/scripts.git "jd_|gua_" "" "^MovementFaker|^JDJRValidator|^ZooFaker|^sign"
 # jd_scripts
 ​
 # 频道
